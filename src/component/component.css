@@ -1,0 +1,45 @@
+.posts-container{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    gap: 10px;
+    padding: auto;
+    background-color: aqua;
+}
+
+table{
+    margin-top: 100px;
+    border: 1px solid black;
+}
+
+tr{
+    height: 40px;
+}
+
+th{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+
+.id{
+    width: 10%;
+}
+
+.delete{
+    width: 20%;
+}
+
+.title{
+    width: 70%;
+}
+
+.title-parah{
+    text-align: left;
+}
+
+button{
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
